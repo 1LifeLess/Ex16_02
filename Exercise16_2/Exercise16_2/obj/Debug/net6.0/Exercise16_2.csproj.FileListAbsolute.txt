@@ -1,0 +1,15 @@
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\bin\Debug\net6.0\Exercise16_2.exe
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\bin\Debug\net6.0\Exercise16_2.deps.json
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\bin\Debug\net6.0\Exercise16_2.runtimeconfig.json
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\bin\Debug\net6.0\Exercise16_2.dll
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\bin\Debug\net6.0\Exercise16_2.pdb
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\obj\Debug\net6.0\Exercise16_2.csproj.AssemblyReference.cache
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\obj\Debug\net6.0\Exercise16_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\obj\Debug\net6.0\Exercise16_2.AssemblyInfoInputs.cache
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\obj\Debug\net6.0\Exercise16_2.AssemblyInfo.cs
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\obj\Debug\net6.0\Exercise16_2.csproj.CoreCompileInputs.cache
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\obj\Debug\net6.0\Exercise16_2.dll
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\obj\Debug\net6.0\refint\Exercise16_2.dll
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\obj\Debug\net6.0\Exercise16_2.pdb
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\obj\Debug\net6.0\Exercise16_2.genruntimeconfig.cache
+C:\Users\tomc2\source\repos\Exercise16_2\Exercise16_2\obj\Debug\net6.0\ref\Exercise16_2.dll
